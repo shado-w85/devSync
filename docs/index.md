@@ -4,3 +4,4 @@
 - Usage
 - Contributing
 - changelog
+- cms-intergration
