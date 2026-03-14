@@ -35,7 +35,7 @@ We welcome contributions!
 ## Lisence
 This project is lisenced under the MIT lisence
 ## Authors
--Joshua Malekela
--Juvenal Tilya
--Alex Audax
--Sinimesi Sadock
+1.Joshua Malekela
+2.Juvenal Tilya
+3.Alex Audax
+4.Sinimesi Sadock
