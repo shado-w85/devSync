@@ -1,5 +1,4 @@
-# ShadowDocs CLI Documentation site.
-
+#GITHUB Documentation site.
 - Installation
 - Usage
 - Contributing
