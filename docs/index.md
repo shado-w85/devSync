@@ -1,4 +1,4 @@
-# ShadowDocs CLI Documentation site.
+# DevSync Documentation site.
 
 - Installation
 - Usage
