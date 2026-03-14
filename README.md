@@ -2,7 +2,7 @@
   <img src="logo.png" width="200">
 </p>
 
-#ShadowDocs CLI
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.1.0-green.svg)
@@ -47,6 +47,9 @@ devsync/
 ├── README.md             # Main documentation file
 └── CHANGELOG.md          # Records project updates and versions
 ## Authors
+- Project Developer  
+- **Joshua Malekela**
+- Alex Audax
+- Juvenal tilya
 
-- **Joshua Malekela** – Project Developer  
 - Open Source Documentation Project
