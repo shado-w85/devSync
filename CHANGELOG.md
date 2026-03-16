@@ -1,4 +1,4 @@
-# Changelog
+U# Changelog
 
 All notable changes to the DevSync project will be documented in this file.
 
@@ -24,3 +24,4 @@ The format follows standard open-source changelog practices.
 - Improved README documentation
 - Updated installation instructions
 - Added examples in API documentation
+##
